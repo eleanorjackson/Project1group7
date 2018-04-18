@@ -1,0 +1,39 @@
+---
+title: "Codebook1"
+author: "Group 7"
+date: "4/17/2018"
+output: html_document
+---
+
+# Variables
+ 
+  Labbels1 -- the text file of activity_labels.txt converted into a table 
+  X_traint -- the text file X_train.txt converted into a table 
+  X_testt -- the text file X_test.txt converted into a table
+  Y_traint -- the text file Y_train.txt converted into a table 
+  Y_testt -- the text file Y_test.txt converted into a table 
+  Variablet -- the text file features.txt converted into a table 
+  y1 -- All Activity numbers together 
+  y2 -- All the data together 
+  y3 -- All Subjects numbers together
+  table3 -- Is adding Activities to the data
+  table4 -- Is adding Subject numbers to the data 
+  y5 -- changing column 1 and 2 to be characters 
+  y6 -- changeing columns 3:81 to be numeric 
+  Subject -- grouping table6 by subject
+  Activity -- grouping Subject by Activty, thus table6 is grouped by both Subject and Activity 
+  table6 -- joining the y5 and y6 into a new data table 
+  mean -- summerization of all the Subject by the specfic activity 
+  
+# Values
+  
+  Labels -- a varibale name for the activity_labels.txt file
+  S_test -- a variable name for the subject_test.txt file 
+  S_train -- a variable name for the subject_train.txt file 
+  Variable -- a varibale name for the features.txt file 
+  X_test -- varibale name for the X_test.txt file 
+  X_train -- varibale name for the X_train.txt file 
+  Y_test -- variable name for the Y_test.txt file 
+  Y_train -- variable name for the Y_train.txt file 
+
+  
